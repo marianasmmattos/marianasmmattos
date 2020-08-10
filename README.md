@@ -19,5 +19,5 @@ We could say I can easily handle an interative API based website. Well, about me
   <img align="left" alt="Mariana Mattos - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
-
 ![Marianasmmattos's github stats](https://github-readme-stats.vercel.app/api?username=marianasmmattos&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianasmmattos&hide=html&theme=radical" alt="mari" />
