@@ -11,7 +11,7 @@ Here you can see my journey trought FullStack Development. Still, i'd rather say
   <li> Figma & Git</li>
 </ul>
 
-We could say I can easily handle an interative API based website. Well, about me? I'm 22 years old from Rio de Janeiro - Brazil. I really love challanges and creating stuff, that's why I'm working with development. I'm self-taught but also really like taking part of courses or whatever makes me learn with other people. That's kind of what i live for! I do also love watching serial killer movies but... Hope you guys can handle it.
+We could say I can easily handle an interative API based website. Well, about me? I'm 22 years old from Rio de Janeiro - Brazil. I really love challenges and creating stuff, that's why I'm working with development. I'm self-taught but also really like taking part of courses or whatever makes me learn with other people. That's kind of what i live for! I do also love watching serial killer movies but... Hope you guys can handle it.
 
 👯 Get in Touch with me <a href="https://in.linkedin.com/in/marianasmmattos">
   <img align="left" alt="Mariana Mattos - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
